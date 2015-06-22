@@ -1,0 +1,121 @@
+nav.menu a.logo {
+    width: 70px;
+    height: 60px;
+    float: left;
+    z-index: 999;
+    margin-top: 10px;
+    background: url("TAGSI.jpg") no-repeat center center;
+    border: none !important;
+    -webkit-transition: all 400ms;
+    transition: all 400ms;
+
+}
+
+nav.menu a.logo:hover {
+    opacity: .8;
+    padding: 1px;
+    text-decoration: underline;    
+    
+}
+
+nav.menu {
+    width: 100%;
+    position: absolute;
+    background: -webkit-linear-gradient(bottom, rgba(0,23,64,0.73), rgba(250,250,250,0.65));
+    background: -moz-linear-gradient(bottom, rgba(0,43,44,0.73), rgba(250,250,250,0.65));
+    height: 80px;
+    top: 0;
+    left: 1px;
+    border-bottom: 1px solid #b6b6b6;
+    border-top: 2px solid #007069;
+    box-shadow: 0px 1px 6px #949494;
+    z-index: 10;
+
+}
+
+nav.menu .submenu{
+    width: 800px;
+    margin-left: 50px;
+}
+
+nav.menu ul {
+    width:100%;
+    padding: 0;
+    margin: 0;
+    margin-left: -30px;
+    text-align: center;
+    
+}
+
+nav.menu ul li {
+    display: inline-block;
+    margin: 0 0 0 -4px;
+    border-left: 2px solid #c3c3c3;
+
+}
+
+nav.menu ul li:nth-child(4) {
+    border-right: 1px solid #c3c3c3;
+
+}
+
+nav.menu ul li a{
+    padding: 28px 22px 30px 22px;
+    line-height: 80px;
+    text-decoration: none;
+    color: black;
+    font-size: 12pt;
+    font-weight: lighter;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    -webkit-transition: all 500ms;
+    transition: all 500ms;
+}
+nav.menu ul li a:hover {
+    background-color: #007069;
+    padding: 32px 35px 32px 35px;
+    box-shadow: 0px 2px 2px #595959;
+    color: #fff;
+}
+.buscar{
+    width: 237px;
+    height: 46px;
+    
+  }  
+
+.search{
+        position: relative;
+}
+
+.search input[type=search]{
+    width: 200px;
+    height: 30px;
+    padding: 5px 0 5px 6px;
+    font-size: 10pt;
+    color: #8a8a8a;
+    border-radius: 5px;
+    box-shadow: 12px;
+    border: 3px solid #ccc;
+    box-shadow: 0 0px 2px #d5d5d5;
+
+}
+.search input[type=submit]{
+    width: 120px;
+    height: 44px;
+    background-color: #1493c8;
+    color: #ffffff;
+    padding: 8px 15px;
+    box-shadow: 0 0px 2px #898989;
+    border-radius: 3px;
+    -webkit-transition: all 400ms;
+    transition: all 400ms;
+
+}
+
+.search input[type=submit]:hover {
+    width: 121px;
+    height: 44px;
+    background-color: #008b84;
+    cursor: pointer;
+     
+}
+
