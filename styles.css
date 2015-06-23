@@ -325,3 +325,20 @@
     display: none;
   }
 }
+#slide{
+  margin: 0 auto;
+  border: 2px solid #CCC;
+  padding: 2px;
+  width: 1000px;
+  height: 500px;
+  margin-top: 18px;
+  border-radius: 5px;
+
+
+}
+#slide ul{
+  list-style: none;
+}
+
+
+
