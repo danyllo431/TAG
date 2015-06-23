@@ -1,25 +1,26 @@
-<div id='container'>
-      <nav class="menu">
-        <div class="submenu">
-          <ul>
-          <a href='#' class="logo"></a>
-          
-              <li><a href="#">Início</a></li>
-              <li><a href="#">Gases</a></li>
-              <li><a href="#">Epoxi</a></li>
-              <li><a href="#">Serviços</a></li>
-              <li><a href="#">Fotos</a></li>
-               </ul>
-          
-           </div>
-           <div class="buscar">
-          <form name="frmBusca" method="post" action="#" class="search">
-              <input type="search" name="palavra" class="input_pesquisa" placeholder="Faça sua busca">
-              <input type="submit" value="Buscar">
-              </form>   
-         </nav>
-          
-
-    </div><!--fim div container-->
-   
-          </div>
+         <div id='cssmenu'>
+   <ul>
+           <a href='#' class="logo"></a>
+          <li><a href='#'>Início</a></li>
+          <li class='active has-sub'><a href='#'>Produtos</a>
+      <ul>
+         <li class='has-sub'><a href='#'>Gases</a>
+            <ul>
+               <li><a href='#'>Hospitalar</a></li>
+               <li><a href='#'>Industriais</a></li>
+            </ul>
+         </li>
+         <li class='has-sub'><a href='#'>Equipamentos</a>
+            <ul>
+               <li><a href='#'>Cilindros</a></li>
+               <li><a href='#'>Dispositivos</a></li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li><a href='#'>Epoxi</a></li>
+   <li><a href='#'>Serviços</a></li>
+    <li><a href='#'>Contato</a></li>
+   <li><a href='#'>Parceiros</a></li>
+</ul>
+</div>

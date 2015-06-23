@@ -1,9 +1,8 @@
 nav.menu a.logo {
-    width: 70px;
-    height: 60px;
     float: left;
-    z-index: 999;
-    margin-top: 10px;
+    width: 80px;
+    height: 70px;
+    margin-top: 0px;
     background: url("TAGSI.jpg") no-repeat center center;
     border: none !important;
     -webkit-transition: all 400ms;
@@ -21,28 +20,27 @@ nav.menu a.logo:hover {
 nav.menu {
     width: 100%;
     position: absolute;
-    background: -webkit-linear-gradient(bottom, rgba(0,23,64,0.73), rgba(250,250,250,0.65));
-    background: -moz-linear-gradient(bottom, rgba(0,43,44,0.73), rgba(250,250,250,0.65));
+    background: -webkit-linear-gradient(bottom, rgba(0,23,64,0.13), rgba(250,250,250,0.65));
+    background: -moz-linear-gradient(bottom, rgba(0,43,44,0.13), rgba(250,250,250,0.65));
     height: 80px;
     top: 0;
     left: 1px;
-    border-bottom: 1px solid #b6b6b6;
+    border-bottom: 2px solid #007069;
     border-top: 2px solid #007069;
-    box-shadow: 0px 1px 6px #949494;
+    box-shadow: 2px 1px 6px #949494;
     z-index: 10;
 
 }
 
 nav.menu .submenu{
-    width: 800px;
-    margin-left: 50px;
+    width: 1000px;
+    margin-left: 60px;
 }
 
 nav.menu ul {
     width:100%;
     padding: 0;
     margin: 0;
-    margin-left: -30px;
     text-align: center;
     
 }
@@ -77,14 +75,16 @@ nav.menu ul li a:hover {
     color: #fff;
 }
 .buscar{
-    width: 237px;
+    width: 337px;
+    margin-top: 0px;
     height: 46px;
+    position: relative;
     
   }  
 
-.search{
-        position: relative;
-}
+ .search{margin-left: 850px;
+    
+        }
 
 .search input[type=search]{
     width: 200px;
@@ -96,6 +96,7 @@ nav.menu ul li a:hover {
     box-shadow: 12px;
     border: 3px solid #ccc;
     box-shadow: 0 0px 2px #d5d5d5;
+
 
 }
 .search input[type=submit]{
