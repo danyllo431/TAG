@@ -10,19 +10,7 @@
    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
    <script src="script.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"/></script>
-   <script type="text/javascript"src="jcycle.js" ></script>
   <link rel="shortcult icon" type="image/x-icon" href="favicon.png">
-<script type="text/javascript">
-
-$(function(){
-
-  $('#slide ul').cycle({
-    fx:'fade',
-    speed:2000,
-    timeout: 5000,
-  });
-}) ;
-    </script>
 </head>
 <body >
   <?php include('Menu.php'); ?>
