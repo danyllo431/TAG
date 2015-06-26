@@ -1,4 +1,4 @@
-Visita 1 definições de nomeclaturas e quantidades de paginas cores gradientes que vão ser ultilizado nos Web site; dia 25-06-2015 
+<?php Visita 1 definições de nomeclaturas e quantidades de paginas cores gradientes que vão ser ultilizado nos Web site; dia 25-06-2015 
 
 visita 2 definição de layout da paginação recolhimento de arquivos desejados para amostra no site escolha do da base de dados a gosto do cliente;
 
@@ -36,3 +36,4 @@ contatos
 phone - 81 3077-8313| 81 3040-8313
 email - contato@tagsi.com.br
 skype - tag.solucoes.industriais
+?>

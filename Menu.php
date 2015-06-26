@@ -3,11 +3,17 @@
            <a href='#' class="logo"></a>
           <li class='active'><a href='#'>Empresa</a></li>
           <li class='has-sub'><a href='#'>Gases</a>
-      <ul>
-         <li class='has-sub'><a href='#'>Tipo</a>
+          <ul>
+          <li class='has-sub'><a href='#'>Industriais</a>
+             <ul>
+               <li><a href='#'></a>Oxigenio</li>
+               <li><a href='#'></a>hidrogenio</li>
+            </ul>
+         <li class='has-sub'><a href='#'>Medicinais</a>
+         <li class='has-sub'><a href='#'>Especiais</a>
             <ul>
                <li><a href='#'></a></li>
-               <li><a href='#'>Industriais</a></li>
+               <li><a href='#'></a></li>
             </ul>
          </li>
          <li class='has-sub'><a href='#'>Equipamentos</a>
