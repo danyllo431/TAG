@@ -336,14 +336,17 @@
 
 
 }
-.slide ul{
+#slide ul{
   list-style: none;
 }
 #corpo{
-  width: 100%;
+  width: 80%;
   height: 1000px;
   padding: 0;
-  margin: 0;
+  margin: auto;
   background-color:#F0F0E1;
+}
+#descricao-empresa {
+  margin: 10px;
 }
 
