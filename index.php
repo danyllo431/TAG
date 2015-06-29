@@ -5,10 +5,11 @@
   <meta http-equiv="content-type" content="text/html;charset=utf-8" />
   <link rel="stylesheet" href="css/styles.css">
   <link rel="stylesheet" type="text/css" href="css/footer.css">
+
+  <!--script-->
   <script type="text/javascript" src="js/jquery.js"></script>
   <script type="text/javascript" src="js/jquery.cycle.all.js"></script>
   <script src="js/script.js"></script>
-  <script src="js/swfobject_modified.js" type="text/javascript"></script>
   <link rel="shortcult icon" type="image/x-icon" href="favicon.png">
   <script type="text/javascript">
    $(function(){
@@ -25,9 +26,9 @@
   <div id="corpo">
     <div id="slide">
       <ul>
-        <li><a href=""><img src="imagem/44444.jpg"></a></li>
-        <li><a href=""><img src="imagem/obra-piso-epoxi-autonivelante-g-31.jpg"></a></li>
-        <li><a href=""><img src="imagem/imagen3.jpg"></a></li>  
+        <li><a href=""><img src="imagem/imagem01.jpg"></a></li>
+        <li><a href=""><img src="imagem/imagem02.jpg"></a></li>
+        <li><a href=""><img src="imagem/imagem03.jpg"></a></li>  
       </ul>
     </div><!--fim div slide-->
 
