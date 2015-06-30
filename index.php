@@ -16,7 +16,7 @@
     $("#slide ul").cycle({
       fx:'fadeZoom',
       speed: 2000,
-      timeout: 4000
+      timeout: 6000
     });
   });
  </script>
@@ -24,22 +24,18 @@
 <body >
   <?php include('Menu.php'); ?>
   <div id="corpo">
-    <div id="slide">
+    <div id="slide"><center>
       <ul>
         <li><a href=""><img src="imagem/imagem01.jpg"></a></li>
         <li><a href=""><img src="imagem/imagem02.jpg"></a></li>
         <li><a href=""><img src="imagem/imagem03.jpg"></a></li>  
       </ul>
+      </center>
     </div><!--fim div slide-->
+  </br>
 
     <div id="descricao-empresa">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eget metus ac consectetur. 
-        Suspendisse posuere sapien quis pellentesque pharetra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-        Nulla ligula mauris, lobortis scelerisque nisi id, sodales placerat augue. Suspendisse potenti. Vivamus ut tincidunt diam, non efficitur ipsum. 
-        Vivamus lorem tortor, blandit et sagittis eu, congue at massa. Phasellus auctor, augue eu laoreet auctor, nunc eros volutpat nibh, 
-        et laoreet sapien sapien ac mauris. Donec scelerisque viverra mauris eu interdum. Vestibulum tincidunt nec neque eu ultrices. 
-        Aenean vehicula erat vitae faucibus ullamcorper. Etiam lacinia diam odio, tincidunt iaculis enim condimentum nec. 
-        Suspendisse eleifend, orci in interdum pulvinar, erat enim ultricies nisl, eget cursus arcu urna quis mi.</p>
+      <p></p>
 
         <p>Etiam convallis justo eget erat blandit volutpat. Morbi iaculis varius velit ac feugiat. Proin velit dui, blandit eget risus non, volutpat rutrum neque. 
           In nulla sem, facilisis et bibendum vitae, elementum et lacus. Nulla facilisi. Curabitur pharetra leo a ultricies placerat. 
