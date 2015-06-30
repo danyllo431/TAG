@@ -28,7 +28,7 @@
 				<li>Hebron</li>
 				<li>Fronpet</li>
 		</div></br></br></br></br></br></br></br></br></br></br></br>
-<li>Direitos de autor 2015 Tag Soluções Industriais,  Todos os direitos reservados. Aviso legal | declaração de privacidade | Equipe do Site | Desenvolvido por Trinity Tecnologia 2015</li>
+<li>Direitos de autor 2015 Tag Soluções Industriais,  Todos os direitos reservados.  Powered by PHP | Equipe do Site | Desenvolvido por | <a href="http://trinitytecnologia.com/">Trinity Tecnologia </a>| Copyright by<a href="http://www.trocalivros.kinghost.net/Views/index.php"> TrocaLivros 2015</a></li>
 	</div><!-- fim div conteudo-->
 
 </footer>
