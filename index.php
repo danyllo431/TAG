@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>TAG SoluУЇУЕes</title>
+  <title>TAG Soluções</title>
   <meta http-equiv="content-type" content="text/html;charset=utf-8" />
   <link rel="stylesheet" href="css/styles.css">
   <link rel="stylesheet" type="text/css" href="css/footer.css">
@@ -14,7 +14,7 @@
   <script type="text/javascript">
    $(function(){
     $("#slide ul").cycle({
-      fx:'fade',
+      fx:'fadeZoom',
       speed: 2000,
       timeout: 4000
     });
@@ -24,7 +24,7 @@
 <body >
   <?php include('Menu.php'); ?>
   <div id="corpo">
-    <div id="slide">
+    <div id="slides">
       <ul>
         <li><a href=""><img src="imagem/imagem01.jpg"></a></li>
         <li><a href=""><img src="imagem/imagem02.jpg"></a></li>
