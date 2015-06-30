@@ -24,7 +24,7 @@
 <body >
   <?php include('Menu.php'); ?>
   <div id="corpo">
-    <div id="slides">
+    <div id="slide">
       <ul>
         <li><a href=""><img src="imagem/imagem01.jpg"></a></li>
         <li><a href=""><img src="imagem/imagem02.jpg"></a></li>
