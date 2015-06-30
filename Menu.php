@@ -18,17 +18,17 @@
           </li>
                    <li><a href='#'>Especiais</a>
                                 <ul>
-               <li><a href='#'>ACETILENO 2.7</a></li>
-               <li><a href='#'>AR SINTÉTICO</a></li>
-               <li><a href='#'>ARGÔNIO(Ar)5.0</a></li>
+               <li><a href='#'>Acetilento 2.7</a></li>
+               <li><a href='#'>AR Sintetico</a></li>
+               <li><a href='#'>Argônio(Ar)5.0</a></li>
                <li><a href='#'>Dióxido de Carbono</a></li>
-               <li><a href='#'>ETILENO 2.5</a></li>
-               <li><a href='#'>HÉLIO(He)5.0</a></li>
-               <li><a href='#'>HIDROGÊNIO 4.5</a></li>
-               <li><a href='#'>NITROGÊNIO 5.0</a></li>
-               <li><a href='#'>ÓXIDO NITROSO N2O</a></li>
+               <li><a href='#'>Etileno 2.5</a></li>
+               <li><a href='#'>Hélio(He)5.0</a></li>
+               <li><a href='#'>Hidrogênio 4.5</a></li>
+               <li><a href='#'>Nitrogênio 5.0</a></li>
+               <li><a href='#'>Óxido nitroso</a></li>
                <li><a href='#'>Oxigenio</a></li>
-               <li><a href='#'>ÓXIDO NITROSO N2O</a></li>
+               <li><a href='#'>Óxido nitroso 2O</a></li>
 
             </ul>               
             </ul></li>
