@@ -347,7 +347,19 @@
   margin: auto;
   background-color:#F0F0E1;
 }
-#descricao-empresa {
-  margin: 10px;
+.descricao {
+  margin-left:150px;
+ 
 }
+.descricao h4{
+	margin-top:30px;	
+	font-family:Times New Roman;
+	font-size:19px;
+	float:right;
+	margin-right:250px;}
+	.descricao h4 p{
+		font-family:Times New Roman;
+		font-size:28px;
+		color:#009ae1;}
+		
 

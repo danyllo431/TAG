@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>TAG Soluções</title>
+  <title>TAG Soluções Industriais</title>
   <meta http-equiv="content-type" content="text/html;charset=utf-8" />
   <link rel="stylesheet" href="css/styles.css">
   <link rel="stylesheet" type="text/css" href="css/footer.css">
@@ -33,24 +33,15 @@
       </center>
     </div><!--fim div slide-->
   </br>
-
-    <div id="descricao-empresa">
-      <p></p>
-
-        <p>Etiam convallis justo eget erat blandit volutpat. Morbi iaculis varius velit ac feugiat. Proin velit dui, blandit eget risus non, volutpat rutrum neque. 
-          In nulla sem, facilisis et bibendum vitae, elementum et lacus. Nulla facilisi. Curabitur pharetra leo a ultricies placerat. 
-          Aliquam convallis libero condimentum, ultrices tortor vel, scelerisque quam. Donec eget eleifend lacus, eget congue libero. 
-          Nam vulputate finibus erat a condimentum.</p>
-
-        <p>Nulla justo leo, dapibus eget enim a, rutrum sodales nunc. Donec vitae ullamcorper justo. 
-            Donec at enim molestie, congue risus ac, dictum nisi. Quisque ligula odio, commodo et eros eget, mollis consequat justo. 
-            Pellentesque magna augue, mattis a gravida sit amet, iaculis nec diam. Vestibulum porttitor dignissim felis eu vehicula. 
-            Suspendisse eleifend magna ac malesuada dapibus. Fusce aliquet sapien in suscipit scelerisque. In tempor gravida hendrerit. 
-            Nam rutrum est vitae augue faucibus elementum. Donec molestie massa ut accumsan lacinia. Proin nec urna sed mi ornare volutpat. 
-            Aliquam et malesuada augue. Curabitur tincidunt elit eget mauris egestas feugiat. Curabitur dignissim dolor eu elit bibendum mollis. 
-            Vestibulum non quam quis nunc volutpat pretium interdum vel purus.</p>
-      </div>
-
+    <div class="descricao">
+      <img src="tagui.png" wisth="400" height="400"><h4><p>A Tag Soluções Industriais</p></br> Tem como objetivo o fornecimento e Instalações</br> de gases Industriais, Medicinais e Especiais e GLP</br>
+      Com especialidade Na aplicação de revestimento Epoxi de alta resistencia</br> para todo tipo de industria Comercio e Unidades Hospitalares  </h4>
+      <div class="informacao">
+      <h2>&nbsp;</h2>
+    </div>
+   
+      <h2>&nbsp;</h2>		   
+   </br>
     </div><!--fim div corpo-->
     <?php include("footer.php"); ?>
   </body>
