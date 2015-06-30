@@ -27,7 +27,8 @@
 				<li>Saobraz</li>
 				<li>Hebron</li>
 				<li>Fronpet</li>
-		</div>
-
+		</div></br></br></br></br></br></br></br></br></br></br></br>
+<li>Direitos de autor 2015 Tag Soluções Industriais,  Todos os direitos reservados. Aviso legal | declaração de privacidade | Equipe do Site | Desenvolvido por Trinity Tecnologia 2015</li>
 	</div><!-- fim div conteudo-->
+
 </footer>
