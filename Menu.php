@@ -1,5 +1,6 @@
+         <div class="logo"><a href='index.php' ></a></div>
          <div id='cssmenu'>
-          <a href='index.php' class="logo"></a>
+
            <ul>
             <li class='active'><a href='index.php'>Empresa</a></li>
             <li class='has-sub'><a href='#'>Gases</a>
