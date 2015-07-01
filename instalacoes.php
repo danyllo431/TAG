@@ -13,11 +13,11 @@
 </head>
 <body>
 <?php include("Menu.php"); ?>
-	<div id="conteudo">
+	<div class="corpo"><div id="conteudo">
 		<div id="conteudo">
 			<aside class="lateral"><span>Instalações</span></aside>
 			<div class="corpo">
-				
+				</br></br></br></br></br>
 				<h2>Muito Além dos Gases</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dui orci, porta non eros fringilla, congue elementum felis. Praesent porta turpis odio, ut mollis nisl placerat non. 
 					Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin rhoncus nisi id nisl gravida, vitae tempor libero pharetra. Mauris finibus urna quis purus venenatis, ut efficitur tortor ultrices. 
@@ -62,21 +62,7 @@
 
 						</tr>
 
-						<tr>
-							<td class='td-titulo'>
-								<br>
-								<h3>Homecare - Atenção Domiciliar</h3>
-							</td>
-							<td class="td-texto">
-								<br>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dui orci, porta non eros fringilla, congue elementum felis. Praesent porta turpis odio, ut mollis nisl placerat non. 
-								Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin rhoncus nisi id nisl gravida, vitae tempor libero pharetra. Mauris finibus urna quis purus venenatis, ut efficitur tortor ultrices. 
-								Vivamus tincidunt feugiat lectus, ac tincidunt mauris varius sed. Duis fringilla arcu a suscipit laoreet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-								Curabitur tristique nec ex ac suscipit. Curabitur sapien sem, porta ut vehicula ac, sagittis eget magna. Duis quis cursus diam.  <br> <br> 
-						  		</p>
-							</td>	
-
-						</tr>
+							
 					</table>
 
 					
@@ -85,7 +71,8 @@
 
 			</div>
 		</div>
-	</div><!--fim div conteudo-->
+	</div><!--fim div conteudo--></div>
+</br></br></br></br></br>
 
 
 <?php include("footer.php"); ?>
