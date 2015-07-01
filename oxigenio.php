@@ -15,8 +15,9 @@
 </head>
 <body>
 	<?php include "menu.php" ?>
-	
-	<div class="corpo"><div id="conteudo">
+
+	<div class="corpo">
+		<img src="imagemtotal.jpg"><div id="conteudo">
 		<div id="conteudo">
 			<aside class="lateral"><img src="8.jpg"></aside>
 			<div class="corpo">
