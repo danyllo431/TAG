@@ -2,29 +2,24 @@
 
 li {
 	list-style: none;
-	
 }
 a {
 	text-decoration: none;
 	color: #000;
 }
-.corpo{
-	margin: 0;
-}
 
 footer {
 	background-color: #333333;
 	width: 100%;
-	height: 270px;
+	height: 250px;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	line-height: 20px;
 	font-size: 14px;
-	padding-top: 20px;
-	
+	padding-top: 50px;
 }
 .conteudo {
-	width: 850px;
-	margin-left: 30px;
+	width: 100%;
+	
 	height: 100%;
 }
 .conteudo li a{
@@ -36,14 +31,14 @@ footer {
 .box {
 	float: left;
 	height: 200px;
-	
 }
 .box h2 {
 	margin-bottom: 10px;
 	color: #009ae1;
 }
 .box1 {
-	padding-right: 10%;
+	margin-left: 30px;
+	padding-right: 13%;
 	border-right: 1px solid #ccc;
 }
 .box1 a:hover {
@@ -58,11 +53,20 @@ footer {
 
 }
 .box3 {
-	
+	padding-right: 10%;
+	padding-left: 5%;
 	font-size: 15px;
 	color: white;
 
 }
 .conteudo li{
 	color: white;
+	
 }
+.conteudo ul{
+	color: white;
+	margin-left: 100px;
+	margin-top: 18px;
+	
+}
+.conteudo ul a{color: #009ae1;}
