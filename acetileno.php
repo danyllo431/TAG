@@ -12,8 +12,8 @@
   <script src="js/script.js"></script>
 </head>
 <body>
-<?php include('Menu.php'); ?>
-
+<?php include('Menu.php'); ?><div class="corpo">
+<img src="imagemtotal.jpg"><div id="conteudo">
 <div id="container">
 		<div class="box-titulo">
 			<h1>Acetileno</h1>
@@ -49,7 +49,7 @@
 			<p>Na Tag Soluções, desenvolvemos as categorias certas para as aplicações certas.</p>
 		</div>
 </div>
-
+</div>
 <?php include("footer.php"); ?>
 
 </body>
