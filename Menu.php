@@ -8,11 +8,11 @@
                  <ul>
                    <li><a href='oxigenio.php'>Oxigênio</a></li>
                    <li><a href='acetileno.php'>Acetileno</a></li>
-                   <li><a href='#'>Argônio</a></li>
-                   <li><a href='#'>Nitrogênio</a></li>
-                   <li><a href='#'>Dioxido de Carbono</a></li>
+                   <li><a href='argonio.php'>Argônio</a></li>
+                   <li><a href='nitrogenio.php'>Nitrogênio</a></li>
+                   <li><a href='dioxido-de-carbono.php'>Dioxido de Carbono</a></li>
                    <li><a href='#'>Misturas para Solda</a></li>
-                   <li><a href='#'>Hidrogênio</a></li>
+                   <li><a href='hidrogenio.php'>Hidrogênio</a></li>
                    <li><a href='#'>Nitrogênio Liquido</a></li>
                  </ul>
                </li>
