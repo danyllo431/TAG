@@ -32,7 +32,7 @@
   width: auto;
   font-family: 'Open Sans', sans-serif;
   line-height: 1;
-  background-color: #EEE9E9;
+background: -webkit-linear-gradient(bottom, rgba(0,34,35,0.17), rgba(255,255,255,0.10));
     z-index: 10;
 }
 #cssmenu a.logo {
