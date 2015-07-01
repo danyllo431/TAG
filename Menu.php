@@ -1,7 +1,7 @@
          <div id='cssmenu'>
    <ul>
-          <a href='#' class="logo"></a>
-          <li class='active'><a href='#'>Empresa</a></li>
+          <a href='index.php' class="logo"></a>
+          <li class='active'><a href='index.php'>Empresa</a></li>
           <li class='has-sub'><a href='#'>Gases</a>
           <ul>
                <li><a href='#'>industriais</a>
@@ -51,8 +51,8 @@
                </ul>
             </li>
           <li><a href='#'> revestimento Epoxi</a></li>
-          <li><a href='#'>INSTALAÇOES CENTRALIZADAS</a></li>
+          <li><a href='instalacoes.php'>INSTALAÇOES CENTRALIZADAS</a></li>
                <li><a href='#'>Parceiros</a></li>
-          <li><a href='#'>Fale conosco</a></li>
+          <li><a href='fale-conosco.php'>Fale conosco</a></li>
 </ul>
 </div

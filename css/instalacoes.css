@@ -1,0 +1,75 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:300);
+
+#conteudo {
+	width: 80%;
+	margin: auto;
+	height: 1000px;
+	font-family: 'Roboto', sans-serif;
+	font-weight:normal
+}
+
+
+
+
+.lateral{
+	height: 220px;
+	float: left;
+	color: #FFF;
+	text-align: center;
+	background-color: #000;
+	line-height: 220px;
+	font-size: 35pt;
+	border-radius: 10px;
+	margin-top: 100px;
+	margin-right: 100px;
+	width: 320px;
+}
+
+.lateral span{
+	margin-top: 15px;
+}
+
+.corpo h2{
+	font-weight:normal;
+	margin-bottom: 10px;
+}
+
+.corpo p{
+	font-weight:normal;
+	font-size: 11pt;
+
+}
+
+.corpo .bloco{
+	width: 72%;
+	height: auto;
+	float: left;
+	margin-top: 120px;
+}
+
+.corpo .bloco h3{
+	width: 217px;
+	font-family: 'Roboto', sans-serif;
+	font-weight:normal;
+	color: #238E68;
+}
+
+.corpo .bloco p{
+	width: 700px;
+}
+
+.corpo .bloco table{
+	border-collapse:collapse;
+	border-spacing:0;
+	CELLPADDING: 0;
+
+}
+
+.corpo .bloco table .td-titulo{
+	width: 100%;
+	vertical-align: top;
+}
+
+.corpo .bloco table tr{
+	border-bottom: 1px dotted gray;
+}
