@@ -12,7 +12,8 @@
   <script src="js/script.js"></script>
 </head>
 <body>
-<?php include('Menu.php'); ?>
+<?php include('Menu.php'); ?><div class="corpo">
+<img src="imagemtotal.jpg">
 
 <div id="container">
 		<div class="box-titulo">
@@ -49,6 +50,7 @@
 			<p>Na Tag Soluções, desenvolvemos misturas contendo Dióxido de Carbono de acordo com a necessidade de cada aplicação. Entre em contato conosco e 
 			<br> ajudaremos você a encontrar a melhor alternativa para suas operações.</p>
 		</div>
+</div>
 </div>
 
 <?php include("footer.php"); ?>

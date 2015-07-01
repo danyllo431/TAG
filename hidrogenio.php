@@ -12,7 +12,8 @@
   <script src="js/script.js"></script>
 </head>
 <body>
-<?php include('Menu.php'); ?>
+<?php include('Menu.php'); ?><div class="corpo">
+<img src="imagemtotal.jpg">
 
 <div id="container">
 		<div class="box-titulo">
@@ -45,6 +46,7 @@
 			<p>Na Tag Soluções, desenvolvemos misturas com hidrogênio de acordo com as necessidades de cada aplicação. Entre em contato conosco e ajudaremos você a
 			<br> encontrar a melhor opção de abastecimento para suas operações. </p>
 		</div>
+</div>
 </div>
 
 <?php include("footer.php"); ?>
