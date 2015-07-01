@@ -19,12 +19,12 @@ footer {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	line-height: 20px;
 	font-size: 14px;
-	padding-top: 30px;
+	padding-top: 20px;
 	
 }
 .conteudo {
 	width: 850px;
-	margin: auto;
+	margin-left: 30px;
 	height: 100%;
 }
 .conteudo li a{
@@ -36,7 +36,7 @@ footer {
 .box {
 	float: left;
 	height: 200px;
-	margin-bottom: 12px;
+	
 }
 .box h2 {
 	margin-bottom: 10px;
@@ -58,7 +58,7 @@ footer {
 
 }
 .box3 {
-	padding-left: 7%;
+	
 	font-size: 15px;
 	color: white;
 
