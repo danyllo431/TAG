@@ -6,7 +6,7 @@
           <ul>
                <li><a href='#'>industriais</a>
                <ul>
-               <li><a href='#'>Oxigênio</a></li>
+               <li><a href='oxigenio.php'>Oxigênio</a></li>
                <li><a href='#'>Acetileno</a></li>
                <li><a href='#'>Argônio</a></li>
                <li><a href='#'>Nitrogênio</a></li>
