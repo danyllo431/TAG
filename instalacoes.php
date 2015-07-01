@@ -15,10 +15,10 @@
 <?php include("Menu.php"); ?>
 	<div class="corpo"><div id="conteudo">
 		<div id="conteudo">
-			<aside class="lateral"><span>Instalações</span></aside>
+			<aside class="lateral"><img src="instalacao.jpg"></aside>
 			<div class="corpo">
 				</br></br></br></br></br>
-				<h2>Muito Além dos Gases</h2>
+				<h2>Instalações Centralizadas</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dui orci, porta non eros fringilla, congue elementum felis. Praesent porta turpis odio, ut mollis nisl placerat non. 
 					Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin rhoncus nisi id nisl gravida, vitae tempor libero pharetra. Mauris finibus urna quis purus venenatis, ut efficitur tortor ultrices. 
 					Vivamus tincidunt feugiat lectus, ac tincidunt mauris varius sed. Duis fringilla arcu a suscipit laoreet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
@@ -72,7 +72,7 @@
 			</div>
 		</div>
 	</div><!--fim div conteudo--></div>
-</br></br></br></br></br>
+
 
 
 <?php include("footer.php"); ?>

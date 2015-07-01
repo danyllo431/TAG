@@ -1,6 +1,6 @@
          <div id='cssmenu'>
+          <a href='index.php' class="logo"></a>
            <ul>
-            <a href='index.php' class="logo"></a>
             <li class='active'><a href='index.php'>Empresa</a></li>
             <li class='has-sub'><a href='#'>Gases</a>
               <ul>

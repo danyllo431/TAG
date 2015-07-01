@@ -1,5 +1,5 @@
 
-<<html>
+<html>
 <head>
 	<title>Oxigenio</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
@@ -18,7 +18,7 @@
 	
 	<div class="corpo"><div id="conteudo">
 		<div id="conteudo">
-			<aside class="lateral"><img src="870EB.jpg"></aside>
+			<aside class="lateral"><img src="8.jpg"></aside>
 			<div class="corpo">
 				</br></br></br></br></br>
 				<h2>Muito Além dos Gases</h2>
@@ -49,7 +49,7 @@
 
 						</tr>
 
-						
+			
 						
 					</table>
 

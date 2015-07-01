@@ -28,10 +28,11 @@
   display: none;
 }
 #cssmenu {
+  padding-top: 18px;
   width: auto;
   font-family: 'Open Sans', sans-serif;
   line-height: 1;
-  background: #ffffff;
+  background-color: #EEE9E9;
     z-index: 10;
 }
 #cssmenu a.logo {
