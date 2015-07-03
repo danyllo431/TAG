@@ -33,7 +33,7 @@
 
                </ul>               
              </ul></li>
-             <li class='has-sub'><a href='#'>Equipamentos</a>
+             <li class='has-sub'><a href='equipamentos.php'>Equipamentos</a>
               <ul>
                <li class='has-sub'><a href='#'>Valvulas</a>
                  <ul>
