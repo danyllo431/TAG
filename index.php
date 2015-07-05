@@ -13,14 +13,10 @@
   <link rel="shortcult icon" type="image/x-icon" href="favicon.png">
   <script type="text/javascript">
    $(function(){
-    $("#slide").cycle({
+    $("#slide ul").cycle({
       fx:'fadeZoom',
       speed: 2000,
-      timeout: 6000,
-      pager: ".pager",
-      pagerAnchorBuilder:function(index, DOMelement){
-          return '<a></a>';
-      }
+      timeout: 6000
     });
   });
  </script>
@@ -28,24 +24,14 @@
 <body >
   <?php include('Menu.php'); ?>
   <div id="corpo">
-    <div id="show">
-    <span class="pager"></span>
-    <div id="slide">
-      <div class="slide-item">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis convallis sollicitudin.</p>
-        <img src="imagem/imagem01.jpg">
-      </div>
-      <div class="slide-item">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis convallis sollicitudin.</p>
-        <img src="imagem/imagem02.jpg">
-      </div>
-      <div class="slide-item">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec iaculis convallis sollicitudin.</p>
-        <img src="imagem/imagem03.jpg">
-      </div>
-
+    <div id="slide"><center>
+      <ul>
+        <li><a href=""><img src="imagem/imagem01.jpg"></a></li>
+        <li><a href=""><img src="imagem/imagem02.jpg"></a></li>
+        <li><a href=""><img src="imagem/imagem03.jpg"></a></li>  
+      </ul>
+      </center>
     </div><!--fim div slide-->
-    </div><!--fim div show-->
   </br>
     <div class="descricao">
       <img src="tagui.png" wisth="350" height="350"><h4><p>A Tag Soluções Industriais</p>________________________________________________________________________________________________</br></br> Tem como objetivo o fornecimento e Instalações de gases Industriais, Medicinais e Especiais e GLP.</br>
