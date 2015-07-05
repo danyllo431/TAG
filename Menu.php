@@ -3,7 +3,7 @@
 
            <ul>
             <li class='active'><a href='index.php'>Empresa</a></li>
-            <li class='has-sub'><a href='#'>Gases</a>
+            <li class='has-sub'><a href='gases.php'>Gases</a>
               <ul>
                <li><a href='#'>industriais</a>
                  <ul>
