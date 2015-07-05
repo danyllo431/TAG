@@ -14,7 +14,7 @@
   <script type="text/javascript">
    $(function(){
     $("#slide").cycle({
-      fx:'fadeZoom',
+      fx:'fade',
       speed: 2000,
       timeout: 6000,
       pager: ".pager",
