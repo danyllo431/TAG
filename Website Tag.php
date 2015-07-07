@@ -15,7 +15,7 @@ revestimento epoxi pagina diferente pagina3
 
 parceiros {
 	alcoa
-	fronpet
+	frompet
 	coca cola
 	hebron
 	linde

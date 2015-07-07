@@ -5,6 +5,7 @@
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
   <link rel="stylesheet" href="css/styles.css">
   <link rel="stylesheet" type="text/css" href="css/footer.css">
+  <link rel="stylesheet" type="text/css" href="css/acetileno.css">
   <link rel="stylesheet" type="text/css" href="css/gases.css">
 
   <!--script-->

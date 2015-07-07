@@ -1,0 +1,28 @@
+#tudo {
+	width: 80%;
+	margin: auto;
+}
+.title {
+	width: 100%;
+	margin-top: 30px;
+	padding: 10px 10px 10px 0px;
+	border-bottom:1px dotted #ccc;
+
+}
+.title h2 {
+	font-family: sans-serif;
+	font-size: 30px;
+	color: #333;
+}
+.logos {
+	display: inline;
+	margin: 20px 20px;
+}
+.logos img {
+	width: 100px;
+	height: 100px;
+	cursor: pointer;
+}
+.meio {
+	margin-top: 100px;
+}

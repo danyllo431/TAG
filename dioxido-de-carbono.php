@@ -13,7 +13,7 @@
 </head>
 <body>
 <?php include('Menu.php'); ?><div class="corpo">
-<img src="imagemtotal.jpg">
+<img src="imagem/imagemtotal.jpg">
 
 <div id="container">
 		<div class="box-titulo">

@@ -53,7 +53,7 @@
             </li>
             <li><a href='#'> revestimento Epoxi</a></li>
             <li><a href='instalacoes.php'>INSTALAÇOES CENTRALIZADAS</a></li>
-            <li><a href='#'>Parceiros</a></li>
+            <li><a href='parceiros.php'>Parceiros</a></li>
             <li><a href='fale-conosco.php'>Fale conosco</a></li>
           </ul>
           </div>

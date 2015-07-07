@@ -14,9 +14,9 @@
 <body>
 <?php include("Menu.php"); ?>
 	<div class="corpo">
-		<img src="imagemtotal.jpg"><div id="conteudo">
+		<img src="imagem/imagemtotal.jpg"><div id="conteudo">
 		<div id="conteudo">
-			<aside class="lateral"><img src="instalacao.jpg"></aside>
+			<aside class="lateral"><img src="imagem/instalacao.jpg"></aside>
 			<div class="corpo">
 				</br></br></br></br></br>
 				<h2>Instalações Centralizadas</h2>

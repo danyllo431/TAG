@@ -14,12 +14,12 @@
   <link rel="shortcult icon" type="image/x-icon" href="favicon.png">
 </head>
 <body>
-	<?php include "menu.php" ?>
+	<?php include "menu.php"; ?>
 
 	<div class="corpo">
-		<img src="imagemtotal.jpg"><div id="conteudo">
+		<img src="imagem/imagemtotal.jpg"><div id="conteudo">
 		<div id="conteudo">
-			<aside class="lateral"><img src="8.jpg"></aside>
+			<aside class="lateral"><img src="imagem/8.jpg"></aside>
 			<div class="corpo">
 				</br></br></br></br></br>
 				<h2>Muito Além dos Gases</h2>
@@ -63,6 +63,6 @@
 	</div><!--fim div conteudo--></div>
 </br></br></br></br></br></br></br></br></br></br>
 
-<?php include "footer.php"?>
+<?php include "footer.php";?>
 </body>
 </html>
